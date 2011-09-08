@@ -1,4 +1,5 @@
 {
 "offline_enabled": false,
+"topics_enabled": true,
 "get_involved_enabled": true
 }
