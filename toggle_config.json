@@ -3,7 +3,7 @@
 "topics_enabled": true,
 "related_enabled": true,
 "get_involved_enabled": true,
-"android_enabled":false,
+"android_enabled":true,
 "newsletter_enabled": false,
 "other_ways_to_donate_enabled": true
 }
